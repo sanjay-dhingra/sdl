@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 func main() {
+	/* test.go ver 1.1 TST */
    	/* local variable definition */
    	var greeting = "Hi How are you"
 	fmt.Printf("%s", greeting)
